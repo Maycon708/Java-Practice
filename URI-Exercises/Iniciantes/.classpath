@@ -10,6 +10,17 @@
 	<classpathentry kind="src" path="1008 - Salário"/>
 	<classpathentry kind="src" path="1009 - Salário com Bônus"/>
 	<classpathentry kind="src" path="1010 - Cálculo Simples"/>
+	<classpathentry kind="src" path="1011 - Esfera"/>
+	<classpathentry kind="src" path="1012 - Área"/>
+	<classpathentry kind="src" path="1013 - O Maior"/>
+	<classpathentry kind="src" path="1014 - Consumo"/>
+	<classpathentry kind="src" path="1015 - Distância Entre Dois Pontos"/>
+	<classpathentry kind="src" path="1016 - Distância"/>
+	<classpathentry kind="src" path="1017 - Gasto de Combustível"/>
+	<classpathentry kind="src" path="1018 - Cédulas"/>
+	<classpathentry kind="src" path="1019 - Conversão de Tempo"/>
+	<classpathentry kind="src" path="1020 - Idade em Dias"/>
+	<classpathentry kind="src" path="1021 - Notas e Moedas"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
