@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="1001 - Extremamente Básico"/>
+	<classpathentry kind="src" path="1002 - Área do Círculo"/>
+	<classpathentry kind="src" path="1003 - Soma Simples"/>
+	<classpathentry kind="src" path="1004 - Produto Simples"/>
+	<classpathentry kind="src" path="1005 - Média 1"/>
+	<classpathentry kind="src" path="1006 - Média 2"/>
+	<classpathentry kind="src" path="1007 - Diferença"/>
+	<classpathentry kind="src" path="1008 - Salário"/>
+	<classpathentry kind="src" path="1009 - Salário com Bônus"/>
+	<classpathentry kind="src" path="1010 - Cálculo Simples"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
